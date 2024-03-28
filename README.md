@@ -33,8 +33,10 @@ European leagues, namely the Premier League (England), La Liga (Spain), Bundesli
 (Germany), Serie A (Italy), and Ligue 1 (France). These leagues represent the pinnacle of
 European football and are home to some of the most prestigious clubs and talented players
 globally.
+
 The dataset encompasses a range of crucial columns that capture essential information about
 each transfer. The key variables include:
+
 ● Club: The football club involved in the transfer.
 ● Name: The name of the player undergoing the transfer.
 ● Age: The age of the player at the time of the transfer.
@@ -49,6 +51,7 @@ each transfer. The key variables include:
 ● Window: Specifies the transfer window during which the deal took place.
 ● League: The football league to which the clubs belong.
 ● Season: The season in which the transfer occurred.
+
 These columns collectively provide a comprehensive view of the transfer activities within the top
 European leagues, allowing for detailed analyses and data visualizations to uncover patterns,
 trends, and insights into the dynamics of player movements in the world of football.
